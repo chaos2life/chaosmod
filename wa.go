@@ -1,5 +1,5 @@
 
-package wa
+package chaosmod
 
 import "fmt"
 
